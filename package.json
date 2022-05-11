@@ -1,11 +1,21 @@
 {
   "name": "ip-dash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IP address utility tool for IPv4 and IPv6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "ipv4",
+    "ipv6",
+    "ip",
+    "ip-address",
+    "client-ip",
+    "public-ip",
+    "private-ip",
+    "ip-to-decimal"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bbharathkumarreddy/ip-dash.git"

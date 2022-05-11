@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/ip-dash.svg)](https://www.npmjs.com/package/ip-dash)
 
-IP address utility tool for IPv4 and IPv6
+IP address utility tool for `IPv4` and `IPv6`
 
 ## Installation
 
