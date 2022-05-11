@@ -1,0 +1,24 @@
+{
+  "name": "ip-dash",
+  "version": "1.0.0",
+  "description": "IP address utility tool for IPv4 and IPv6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbharathkumarreddy/ip-dash.git"
+  },
+  "author": "B Bharath Kumar <bbharathkumarreddy96@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbharathkumarreddy/ip-dash/issues"
+  },
+  "homepage": "https://github.com/bbharathkumarreddy/ip-dash#readme",
+  "dependencies": {
+    "big-integer": "^1.6.51",
+    "ip": "^1.1.8",
+    "request-ip": "^2.1.3"
+  }
+}
